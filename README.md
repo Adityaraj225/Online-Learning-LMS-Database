@@ -1,0 +1,2 @@
+# Online-Learning-LMS-Database
+Online Learning Management System (LMS) database project with structured schema design, ER diagram, and SQL implementation. Includes analytics dashboard integration for tracking student progress, course performance, enrollments, and learning insights.
